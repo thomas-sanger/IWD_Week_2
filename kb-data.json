@@ -1,0 +1,19 @@
+{
+  "knowledgeBase": [
+    {
+      "questionName": "Question 1",
+      "question": "What does JSON stand for?",
+      "answer": " JavaScript Object Notation"
+    },
+    {
+      "questionName": "Question 2",
+      "question": "What is a JavScript Promise?",
+      "answer": " A Promise allows you to associate handlers with an asynchronous action's eventual success value or failure reason."
+    },
+    {
+      "questionName": "Question 3",
+      "question": "What is an addEventListener() method?",
+      "answer": " A method attaches an event handler to an element without overwriting existing event handlers."
+    }
+  ]
+}
